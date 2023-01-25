@@ -6,62 +6,40 @@
 
 <h1 align="center">nextexperience.github.io</h5>
 
-* [tiddlywiki-store](/README.md)
+* [Homepage](/README.md)
 * [Get Started](get-started/README.md)
 * [Contributors](contributors/README.md)
-* [API Endpoints](api/README.md)
-   * [Client](api/client/README.md)
-   * [Server](api/server/README.md)
-      * database type
-      * protocol-networking
-      * service-provider-type
-   * [Limits](api/limits/README.md)
-* [FAQ](/faq/README.md)
-* [License](/license/README.md)
-   * repos
-     * docs-tiddlywiki-store
-     * api-tiddlywiki-store
-     * uiux-tiddlywiki-store
-   * libs
-   * [BrowserStorage](/license/README.md) 
-     * [Cookies](/license/README.md) 
-     * [IndexedDB](/license/README.md) 
-     * [LocalStorage](/license/README.md) 
-     * [SessionStorage](/license/README.md) 
-     * [WebSQL](/license/README.md) 
-     * [HistoryPush](/license/README.md) 
-   * [ProviderStorage](/license/README.md) 
-     * [Dropbox](/license/README.md) 
-     * [NocoDB](/license/README.md) 
-     * [Airtable](/license/README.md) 
-     * [SeaTable](/license/README.md) 
-     * [Grist](/license/README.md) 
-     * Gitlab
-     * GitHub
-     * Fission
-     * Tiddlywiki Host
-     * [Baserow](/license/README.md) 
-     * [GoogleDrive](/license/README.md) 
-     * [StandardNote](/license/README.md) 
-     * [SimpleNote](/license/README.md) 
-     * [Back4App](/license/README.md) 
-     * [Google Spreadsheets](/license/README.md) 
-   * [DatabaseProvider](/license/README.md) 
-     * [MongoDB](/license/README.md) 
-     * Orbit-db
-     * MySQL
-     * MariaDB
-     * POSTGRES
-     * SQLServer
-     * SQLite
-   * [ProtocolProvider](/license/README.md) 
-     * [SFTP](/license/README.md) 
-     * [GIT](/license/README.md) 
-     * [FTP](/license/README.md) 
-     * [SSH](/license/README.md) 
-     * [SMDB](/license/README.md) 
-     * [IPFS](/license/README.md) 
-   * [FileSystemProvider](/license/README.md)  
-     * [FileSystem](/license/README.md) 
-* [Screenshots](screenshots/README.md)
-* [Settings](settings/README.md)
+* [FAQ](api/README.md)
+* [Tutorial](/faq/README.md)
+* [Articles](/license/README.md)
+* [Tutorials](screenshots/README.md)
+* [Insights](settings/README.md)
+* [Ideas](settings/README.md)
+* [Concepts](settings/README.md)
+* [Playlist](settings/README.md)
+* [Design](settings/README.md)
+* [MVC](settings/README.md)
+* [Changelog](settings/README.md)
+* [Contributors](settings/README.md) 
+* [IETF](settings/README.md) 
+* [Proposals](settings/README.md)
+* [Colabs](settings/README.md)
+   * [Baserow](api/README.md)
+   * [WICG](/faq/README.md)
+   * [W3C](/license/README.md)
+   * [MNM](screenshots/README.md)
+   * [Delta-chat](settings/README.md)
+   * [M-attack](settings/README.md)
+   * [Bitwarden](settings/README.md)
+   * [Design](settings/README.md)
+   * [MVC](settings/README.md)
+   * [Tiddlywiki](settings/README.md)
+   * [7.css](settings/README.md)
+   * [Orbit-db](settings/README.md)
+   * [AlephNote](settings/README.md)
+   * [Fyne-io](settings/README.md)
+   * [Files](settings/README.md)
+   * [Gnome](settings/README.md)
+   * [LibreOffice](settings/README.md)
+   * [Matrix](settings/README.md)
+   * [GuiaFoca](settings/README.md)
